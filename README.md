@@ -29,6 +29,6 @@ Ensure you have the following installed:
    cd to-do
    ```
 2. Install dependencies:
-```bash
+   ```bash
    yarn install
    ```
