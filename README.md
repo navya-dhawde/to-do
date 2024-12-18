@@ -54,3 +54,14 @@ Below are the available scripts for this project:
   yarn dev
   ```
 ## Screenshots
+### Screenshot 1
+![Screenshot 1](./public/img1.png)
+*This is the first screenshot showing the main dashboard.*
+
+### Screenshot 2
+![Screenshot 2](./public/img2.png)
+*This screenshot shows the settings page of the application.*
+
+### Screenshot 3
+![Screenshot 3](./public/img3.png)
+*Here is a screenshot of the user profile page.*
