@@ -54,14 +54,14 @@ Below are the available scripts for this project:
   yarn dev
   ```
 ## Screenshots
-### Screenshot 1
+### HomePage
 ![Screenshot 1](./public/img1.png)
-*This is the first screenshot showing the main dashboard.*
+*This is the first screenshot showing the main dashboard. Here is where all the tasks are listed and we have also included a dummy button to add any new task.*
 
-### Screenshot 2
+### Add Task
 ![Screenshot 2](./public/img2.png)
-*This screenshot shows the settings page of the application.*
+*This screenshot shows the interface where we can add a new task to our to-do list.*
 
-### Screenshot 3
+### Edit Task
 ![Screenshot 3](./public/img3.png)
-*Here is a screenshot of the user profile page.*
+*Here is a screenshot of the interface where we can edit an existing task from our to-do list.*
