@@ -65,3 +65,10 @@ Below are the available scripts for this project:
 ### Edit Task
 ![Screenshot 3](./public/img3.png)
 *Here is a screenshot of the interface where we can edit an existing task from our to-do list.*
+
+## Assumptions
+
+- **Add Task**: The "Add Task" button doesn't actually add and store tasks. It only simulates the behavior by interacting with a dummy API.
+- **Edit Task**: The task editing functionality doesn't update the actual task data persistently. It modifies tasks fetched from the dummy API.
+- **Task Data**: All tasks are fetched from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/todos). The application simulates adding, editing, and deleting tasks but doesn't persist these changes to a backend. In a real application, these operations would be connected to a database.
+
