@@ -36,15 +36,21 @@ Ensure you have the following installed:
    ```bash
    yarn dev
    ```
-4. Open the app in your browser at http://localhost:3000.
+4. Open the app in your browser at (http://localhost:3000).
 
-### Directory Structure
-   ```bash
-   src/ ├── app/ │ ├── add-task/ # Page to add a new task │ ├── edit-task/ #    Page to edit an existing task │ ├── layout.tsx # App layout │ ├──            page.tsx # Home page │ ├── style.css # Global styles │ ├──                
-   ReduxProvider.tsx # Redux provider for state management ├── store/ │ ├── 
-   index.ts # Redux store setup │ ├── taskSlice.ts # Reducer for task- 
-   related actions ├── public/ │ ├── imgg.png # Placeholder image for 
-   testing ├── tailwind.config.ts # Tailwind CSS configuration ├── 
-   tsconfig.json # TypeScript configuration └── yarn.lock # Dependency lock 
-   file
-   ```
+## Technologies Used
+
+- **Framework**: [Next.js](https://nextjs.org)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com)
+- **State Management**: [Redux Toolkit](https://redux-toolkit.js.org)
+- **Language**: [TypeScript](https://www.typescriptlang.org)
+
+## Scripts
+
+Below are the available scripts for this project:
+
+- **Run Development Server**:
+  ```bash
+  yarn dev
+  ```
+## Screenshots
