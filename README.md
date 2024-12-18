@@ -72,3 +72,8 @@ Below are the available scripts for this project:
 - **Edit Task**: The task editing functionality doesn't update the actual task data persistently. It modifies tasks fetched from the dummy API.
 - **Task Data**: All tasks are fetched from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/todos). The application simulates adding, editing, and deleting tasks but doesn't persist these changes to a backend. In a real application, these operations would be connected to a database.
 
+## Conclusion
+
+This To-Do application provides a simple and intuitive interface for managing tasks, built with Next.js, Tailwind CSS, and Redux Toolkit. While the application currently uses a dummy API for task management, it demonstrates features like adding, editing, and deleting tasks.
+
+I hope you liked this project! 😊
