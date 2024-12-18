@@ -28,3 +28,7 @@ Ensure you have the following installed:
    git clone https://github.com/navya-dhawde/to-do.git
    cd to-do
    ```
+2. Install dependencies:
+```bash
+   yarn install
+   ```
