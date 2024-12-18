@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+.intro{
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.intro h1, .edit h1, .add h1{
+    font-family: "Modak", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3rem;
+}
+
+.intro p{
+    font-family: "Quicksand", sans-serif;
+    font-weight: 500;
+}
+
+.hello{
+    font-family: "Quicksand", sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: rgb(159, 159, 159);
+}
+
+.list{
+    font-family: "Quicksand", sans-serif;
+    font-weight: 700;
+    font-size: 1.3rem;
+    border-radius: 30px;
+}
+
+.list p{
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.add-task{
+    font-family: "Quicksand", sans-serif;
+    border-radius: 10px;
+}
+
+.add-task button{
+    border-radius: 10px;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 700;
+}
+
+.list button{
+    font-size: 1.1rem;
+    border-radius: 10px;
+}
+
+.item{
+    border-radius: 10px;
+}
+
+.edit, .add{
+    font-family: "Quicksand", sans-serif;
+}
+
+.edit check{
+    margin-left: 10px;
+}
+
+.edit button, .add button{
+    border-radius: 10px;
+}
+
+.imgs {
+    position: absolute; /* Positions the image absolutely within the intro container */
+    top: -26px; /* Moves the image slightly above the top of the container */
+    right: 50px; /* Positions the image at the right end */
+    width: 270px;  /* Adjust width as needed */
+    height: 250px; /* Adjust height as needed */
+  }
